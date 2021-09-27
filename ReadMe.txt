@@ -1,3 +1,5 @@
+Pack made by Lad_Flaver
+
 Website: lavidacraft.42web.io
 
 Please use this pack as follows:
