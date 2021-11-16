@@ -1,6 +1,6 @@
 LavidaCraft Official 1.4.3
 
-Improved Torch and SoulTorch animations. (Java,Bedrock)
+Improved Torch and Soul Torch animations. (Java,Bedrock)
 Added lily pad texture that is lighter and more circular. (Java/Bedrock)
 Added less noisy recipe book texture. (Java)
 
