@@ -1,3 +1,8 @@
+LavidaCraft Official 1.4.3
+
+Made the Experience bar smoother. (Java/Bedrock)
+Added alternative enchant glint. (Java) Enable by renaming enchanted_item_glint0.png to enchanted_item_glint.png.
+
 LavidaCraft Official 1.4.2
 
 Added lily pad texture that is lighter and more circular. (Java/Bedrock)
