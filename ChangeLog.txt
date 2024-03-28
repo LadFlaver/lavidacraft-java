@@ -1,3 +1,8 @@
+LavidaCraft Official 1.5
+
+Updated ReadMe (Java/Bedrock)
+Removed emissive textures for ores. This feature is available in other resource packs, and can unbalance the game. (Java)
+
 LavidaCraft Official 1.4.3
 
 Improved potted cactus model and texture. (Java)
