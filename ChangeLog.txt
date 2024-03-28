@@ -2,6 +2,8 @@ LavidaCraft Official 1.5
 
 Updated ReadMe (Java/Bedrock)
 Removed emissive textures for ores. This feature is available in other resource packs, and can unbalance the game. (Java)
+Updated textures for potions and lingering potions (Java)
+Updated textures for honey bottles. (Java)
 
 LavidaCraft Official 1.4.3
 
@@ -24,6 +26,7 @@ Changed ReadMe.txt
 Added changed railfix that looks more natural. (Java)
 Added less intense enchant glint. (Java)
 Fixed opacity issue with rail corners. (Java/Bedrock)
+
 
 LavidaCraft Official 1.4.1.1 (hotfix)
 
