@@ -1,30 +1,36 @@
-LavidaCraft Official 1.5 (polishing update)
+LavidaCraft 1.5 (Polishing Update)
 
-All changes are included in both Java and Bedrock unless specified.
+All changes are included in both Java and Bedrock unless otherwise specified.
 Added:
--Potion textures. (Bedrock)
--Dragon breath texture to match bottle and potion updates.
--Diamond ore texture.
+ - Potion textures. (Bedrock)
+ - Dragon breath texture to match bottle and potion updates.
+ - Diamond ore texture.
 
 Updated:
--Resource pack icon.
--Potion textures.
--Honey bottle texture.
--Tall seagrass texture.
--Glowstone and glowstone dust textures to be closer to Vanilla.
--Enderman texture.
--Chicken texture to match Vanilla colors.
--Torch and sould torch textures for better animation.
--Ore textures.
--Sun to improve the bloom.
--Brewing stand block texture.
--Writable book texture to match changes to chickens.
+ - Resource pack icon.
+ - Potion textures.
+ - Honey bottle texture.
+ - Tall seagrass texture.
+ - Glowstone and glowstone dust textures to be closer to Vanilla.
+ - Enderman texture.
+ - Chicken texture to match Vanilla colors.
+ - Torch and soul torch textures for better animation.
+ - Ore textures.
+ - Sun to improve the bloom.
+ - Brewing stand block texture.
+ - Writable book texture to match changes to chickens.
+ - Recipe book in the inventory and updated the format. (Java)
+ - Updated sugar texture.
+ - Updated brewing stand UI.
 
 Removed:
--Skeleton, wither skeleton, and stray textures.
--Removed old enchant glint. (Java)
--Player background in the inventory and fixed recipe book. (Java)
--Deepslate ore textures excluding redstone.
--Emerald ore texture.
--Feather texture.
--Unecessary inventory icon retextures.
+ - Skeleton, wither skeleton, and stray textures.
+ - Removed old enchant glint. (Java)
+ - Player background in the inventory. (Java)
+ - Deepslate ore textures excluding redstone.
+ - Emerald ore texture.
+ - Feather texture.
+ - Unecessary armor icon retextures.
+ - Removed emissive ore textures. (Java)
+ - Removed triangular crosshair. 
+ - Removed "Official" from the name.

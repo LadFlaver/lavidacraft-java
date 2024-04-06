@@ -1,18 +1,10 @@
-Pack made by Lad_Flaver Copyright 2024 All Rights Reserved
+Pack made by Lad_Flaver Copyright 2024. All Rights Reserved.
 
 Website: ladflaver.github.io/lavidacraft
 
 Please do not redistribute this resource pack!
 
-To use:
-Launch Minecraft,
-Navigate to the "Options" Menu,
-Select "Resource Packs",
-Click "Open Pack Folder",
-Move texture pack into the folder (zip or folder, shouldn't matter),
-In Minecraft hit the button to use the pack,
-Click "Done",
-After loading, the pack should work.
+This pack is not intended to be a retexture of the game, but add improvements and tweaks to various parts of the game.
 
 OptiFine Features:
 If you would like to disable the custom loading screen delete or rename the color.properties file.
