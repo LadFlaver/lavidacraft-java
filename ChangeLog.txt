@@ -20,8 +20,11 @@ Updated:
  - Brewing stand block texture.
  - Writable book texture to match changes to chickens.
  - Recipe book in the inventory and updated the format. (Java)
- - Updated sugar texture.
- - Updated brewing stand UI.
+ - Sugar texture.
+ - Brewing stand UI to match bottle changes.
+ - Redstone torch to match other torches color.
+ - Rail corner.
+ - Zombie.
 
 Removed:
  - Skeleton, wither skeleton, and stray textures.
@@ -31,6 +34,6 @@ Removed:
  - Emerald ore texture.
  - Feather texture.
  - Unecessary armor icon retextures.
- - Removed emissive ore textures. (Java)
- - Removed triangular crosshair. 
+ - Emissive ore textures. (Java)
+ - Triangular crosshair.
  - Removed "Official" from the name.
