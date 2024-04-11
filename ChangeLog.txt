@@ -1,39 +1,34 @@
-LavidaCraft 1.5 (Polishing Update)
+LavidaCraft 1.5
 
 All changes are included in both Java and Bedrock unless otherwise specified.
-Added:
- - Potion textures. (Bedrock)
- - Dragon breath texture to match bottle and potion updates.
- - Diamond ore texture.
-
-Updated:
- - Resource pack icon.
- - Potion textures.
- - Honey bottle texture.
- - Tall seagrass texture.
- - Glowstone and glowstone dust textures to be closer to Vanilla.
- - Enderman texture.
- - Chicken texture to match Vanilla colors.
- - Torch and soul torch textures for better animation.
- - Ore textures.
- - Sun to improve the bloom.
- - Brewing stand block texture.
- - Writable book texture to match changes to chickens.
- - Recipe book in the inventory and updated the format. (Java)
- - Sugar texture.
- - Brewing stand UI to match bottle changes.
- - Redstone torch to match other torches color.
- - Rail corner.
- - Zombie.
-
-Removed:
- - Skeleton, wither skeleton, and stray textures.
- - Removed old enchant glint. (Java)
- - Player background in the inventory. (Java)
- - Deepslate ore textures excluding redstone.
- - Emerald ore texture.
- - Feather texture.
- - Unecessary armor icon retextures.
- - Emissive ore textures. (Java)
- - Triangular crosshair.
- - Removed "Official" from the name.
+ -  Added: Diamond Ore texture.
+ -  Added: Dragon Breath texture.
+ -  Added: Experience Bottle texture.
+ -  Added: Custom Chorus Flower model that looks more like a flower. (Java)
+ -  Added: Potion textures to match the Java version of LavidaCraft. (Bedrock)
+ - Updated: Resource Pack icon.
+ - Updated: Potion and Honey Bottle textures for higher quality.
+ - Updated: Brewing Stand UI to match the changes made to bottles.
+ - Updated: Glowstone and Glowstone Dust textures to be closer to Vanilla.
+ - Updated: Enderman texture to reduce contrast of it's teeth.
+ - Updated: Chicken, feather, and writable book to match Vanilla colors.
+ - Updated: Torch and Soul Torch textures to improve animation quality.
+ - Updated: Redstone Torch to match the color of other torches.
+ - Updated: Ore textures for higher quality.
+ - Updated: Sugar texture.
+ - Updated: Rail Corner texture.
+ - Updated: Zombie texture for consistency and higher quality.
+ - Updated: XP and related bars.
+ - Updated: Tall Seagrass textures to improve quality.
+ - Updated: Potted Cactus model and texture. This will not cause a visual difference. (Java)
+ - Updated: GUI to meet Minecraft's internal changes to how they work. (Java)
+ - Updated: Rail Fix textures to connect better with normal rails. (Java)
+ - Updated: Enchantment Glint to match Minecraft's internal changes. (Java)
+ - Removed: Skeleton, Stray, and Wither Skeleton textures.
+ - Removed: Deepslate Ore textures excluding Redstone.
+ - Removed: Emerald Ore texture.
+ - Removed: Unecessary UI textures.
+ - Removed: Triangular Crosshair.
+ - Removed: Custom Inventory texture. (Java)
+ - Removed: Old Enchant Glint. (Java)
+ - Removed: Emissive Optifine Ore textures to balance the game. (Java)
