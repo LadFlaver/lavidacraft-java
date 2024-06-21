@@ -1,3 +1,17 @@
+LavidaCraft 1.6
+
+Added:
+ - Crossbow texture.
+ - Fishing Bobber texture.
+ - Fishing Rod textures.
+ - Arrow Entity Texture to match Arrow item colors.
+
+Updated:
+ - Bow texture.
+ - Endermen texture.
+ - Zombie texture.
+ - Chiseled Stone Bricks.
+
 LavidaCraft 1.5
 
 All changes are included in both Java and Bedrock unless otherwise specified.
