@@ -7,10 +7,12 @@ Added:
  - Arrow Entity Texture to match Arrow item colors.
 
 Updated:
+ - Updated to 1.21.
  - Bow texture.
  - Endermen texture.
  - Zombie texture.
- - Chiseled Stone Bricks.
+ - Chiseled Stone Bricks texture.
+ - Hotbar texture.
 
 LavidaCraft 1.5
 
