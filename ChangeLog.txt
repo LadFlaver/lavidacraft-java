@@ -5,14 +5,16 @@ Added:
  - Fishing Bobber texture.
  - Fishing Rod textures.
  - Arrow Entity Texture to match Arrow item colors.
-
+ - Custom Torch models to preserve current torch features in anticipation of upcoming Minecraft updates. (Java)
 Updated:
- - Updated to 1.21.
+ - Updated to pack format 34 (1.21.1).
  - Bow texture.
  - Endermen texture.
  - Zombie texture.
  - Chiseled Stone Bricks texture.
  - Hotbar texture.
+ - Empty Shield Slot texture.
+ - Heart, Armor, and Hunger stat textures.
 
 LavidaCraft 1.5
 
