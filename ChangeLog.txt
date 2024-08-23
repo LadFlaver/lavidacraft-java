@@ -15,6 +15,7 @@ Updated:
  - Hotbar texture.
  - Empty Shield Slot texture.
  - Heart, Armor, and Hunger stat textures.
+ - Sugar texture.
 
 LavidaCraft 1.5
 
