@@ -2,10 +2,9 @@ LavidaCraft 1.6
 
 Added:
  - Crossbow texture.
- - Fishing Bobber texture.
+ - Fishing Hook texture.
  - Fishing Rod textures.
  - Arrow Entity Texture to match Arrow item colors.
- - Custom Torch models to preserve current torch features in anticipation of upcoming Minecraft updates. (Java)
 Updated:
  - Updated to pack format 34 (1.21.1).
  - Bow texture.
@@ -16,6 +15,9 @@ Updated:
  - Empty Shield Slot texture.
  - Heart, Armor, and Hunger stat textures.
  - Sugar texture.
+Technical:
+ - Added custom Torch models to preserve current torch features in anticipation of upcoming Minecraft updates. (Java)
+ - Updated Potted Cactus model.
 
 LavidaCraft 1.5
 
