@@ -6,6 +6,7 @@ Updated:
  - Hotbar texture.
  - Recipe Book icon. (Java)
  - Book, Enchanted Book, Writable Book, and Written Book textures.
+ - Redstone Torch Texture.
 Fixed:
  - Missing particle textures in torch models. (Java)
 
