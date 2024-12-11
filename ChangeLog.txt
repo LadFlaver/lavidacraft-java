@@ -1,3 +1,8 @@
+LavidaCraft 1.8
+
+Fixed:
+ - All armor textures to match new pack format. (Java)
+
 LavidaCraft 1.7
 
 Added:
