@@ -1,7 +1,14 @@
 LavidaCraft 1.8
 
+Updated:
+ - Pack format to 1.21.4.
+ - Netherite tool textures. Made the diamond trim match the Vanilla color palette.
+ - Updated emissive textures for netherite tools to match changes. (Java)
+
 Fixed:
  - All armor textures to match new pack format. (Java)
+ - Added the slots folder and corresponding textures to match 1.21.4's new format for empty slots. (Java)
+
 
 LavidaCraft 1.7
 
