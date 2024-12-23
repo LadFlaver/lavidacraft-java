@@ -1,9 +1,21 @@
 LavidaCraft 1.8
 
+Added:
+ - Dirt Path Side texture. Changed to match grass block shading.
+ - Podzol Side texture. Changed to have shading similar to mycelium.
+
 Updated:
  - Pack format to 1.21.4.
  - Netherite tool textures. Made the diamond trim match the Vanilla color palette.
- - Updated emissive textures for netherite tools to match changes. (Java)
+ - Netherite tool emissive textures. Matches color palette changes. (Java)
+ - Sun texture. Now matches the Vanilla color palette.
+ - Moon Phases texture. Cooler color temperature and small stylistic changes.
+ - Honey Bottle texture. Now more unique to differ from potion textures.
+ - Chorus Petal texture. Now more similar in style to the spore blossom. (Java)
+ - Enchant Glint. Better color blending and is now blurred across all items. (Java)
+ - Heart textures. Slightly more contrast in shading.
+ - Absorbing Heart textures. Better color palette.
+ - Hardcore Heart textures including: absorption, poison, and default. Small detail changes.
 
 Fixed:
  - All armor textures to match new pack format. (Java)
