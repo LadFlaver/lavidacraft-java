@@ -16,6 +16,7 @@ Updated:
  - Heart textures. Slightly more contrast in shading.
  - Absorbing Heart textures. Better color palette.
  - Hardcore Heart textures including: absorption, poison, and default. Small detail changes.
+ - Bedrock texture. Higher quality texture.
 
 Fixed:
  - All armor textures to match new pack format. (Java)
