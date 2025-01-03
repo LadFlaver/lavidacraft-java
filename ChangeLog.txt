@@ -16,7 +16,7 @@ Updated:
  - Absorbing Heart textures. Better color palette.
  - Hardcore Heart textures including: absorption, poison, and default. Small detail changes.
  - Bedrock texture. Higher quality artwork.
- - All Potion textures. (Bedrock only)
+ - All Potion textures. Ensured consistent and more accurate colors. (Bedrock only)
  - Bottle and Splash Potion textures.
 Fixed:
  - All armor textures to match new pack format. (Java only)
