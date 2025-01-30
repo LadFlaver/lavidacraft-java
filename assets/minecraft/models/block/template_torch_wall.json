@@ -2,37 +2,67 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
+		"1": "block/torch_metal",
 		"particle": "#torch"
 	},
 	"elements": [
 		{
+			"name": "up_down",
 			"from": [-1, 3.5, 7],
 			"to": [1, 13.5, 9],
 			"shade": false,
 			"rotation": {"angle": -22.5, "axis": "z", "origin": [0, 3.5, 8]},
 			"faces": {
-				"up": {"uv": [7, 5, 9, 7], "texture": "#torch"},
-				"down": {"uv": [7, 13, 9, 15], "texture": "#torch"}
+				"up": {"uv": [7, 6, 9, 8], "texture": "#torch"},
+				"down": {"uv": [7, 14, 9, 16], "texture": "#torch"}
 			}
 		},
 		{
-			"from": [-1, 3.5, 6],
-			"to": [1, 19.5, 10],
+			"name": "east_west",
+			"from": [-1, 3.5, 0],
+			"to": [1, 19.5, 16],
 			"shade": false,
 			"rotation": {"angle": -22.5, "axis": "z", "origin": [0, 3.5, 8]},
 			"faces": {
-				"east": {"uv": [6, 0, 10, 16], "texture": "#torch"},
-				"west": {"uv": [6, 0, 10, 16], "texture": "#torch"}
+				"east": {"uv": [0, 0, 16, 16], "texture": "#torch"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#torch"}
 			}
 		},
 		{
-			"from": [-2, 3.5, 7],
-			"to": [2, 19.5, 9],
+			"name": "north_south",
+			"from": [-8, 3.5, 7],
+			"to": [8, 19.5, 9],
 			"shade": false,
 			"rotation": {"angle": -22.5, "axis": "z", "origin": [0, 3.5, 8]},
 			"faces": {
-				"north": {"uv": [6, 0, 10, 16], "texture": "#torch"},
-				"south": {"uv": [6, 0, 10, 16], "texture": "#torch"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#torch"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#torch"}
+			}
+		},
+		{
+			"name": "metal_outer",
+			"from": [-1.5, 11.5, 6.5],
+			"to": [1.5, 13.5, 9.5],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0, 3.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 2], "texture": "#1"},
+				"east": {"uv": [0, 0, 3, 2], "texture": "#1"},
+				"south": {"uv": [0, 0, 3, 2], "texture": "#1"},
+				"west": {"uv": [0, 0, 3, 2], "texture": "#1"},
+				"down": {"uv": [0, 2, 3, 5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "metal_inner",
+			"from": [-1.5, 11.5, 9.5],
+			"to": [1.5, 13.5, 6.5],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0, 3.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 2], "texture": "#1"},
+				"east": {"uv": [0, 0, 3, 2], "texture": "#1"},
+				"south": {"uv": [0, 0, 3, 2], "texture": "#1"},
+				"west": {"uv": [0, 0, 3, 2], "texture": "#1"},
+				"down": {"uv": [0, 2, 3, 5], "texture": "#1"}
 			}
 		}
 	]
