@@ -1,4 +1,4 @@
-Pack made by Lad_Flaver. Copyright 2024. All Rights Reserved.
+Pack made by Lad_Flaver. Copyright 2025. All Rights Reserved.
 
 Do not redistribute this resource pack!
 
