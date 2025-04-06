@@ -1,3 +1,12 @@
+LavidaCraft 1.10
+Updated:
+ - Sugar texture. Smaller and matches Minecraft's style better.
+ - Kelp Block texture.
+ - Lily Pad texture.
+ - Pack format to 1.21.5.
+ - Glowstone.
+ - Glowstone Dust.
+
 LavidaCraft 1.9
 Updated:
  - Bow texture. Improved quality for the arrow.
