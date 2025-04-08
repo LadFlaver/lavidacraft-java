@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "block/torch_metal",
+		"1": "lavidacraft:block/torch_metal",
 		"particle": "#torch"
 	},
 	"elements": [

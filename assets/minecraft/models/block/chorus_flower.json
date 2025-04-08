@@ -1,9 +1,10 @@
 {
+	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"2": "block/chorus_disc",
+		"2": "lavidacraft:block/chorus_disc",
 		"bottom": "block/chorus_plant",
-		"flower": "block/chorus_petal",
+		"flower": "lavidacraft:block/chorus_petal",
 		"particle": "block/chorus_flower",
 		"side": "block/chorus_flower"
 	},
@@ -38,7 +39,7 @@
 			}
 		},
 		{
-			"from": [-8, 16, 0],
+			"from": [-9, 16, 0],
 			"to": [7, 16, 16],
 			"rotation": {"angle": -22.5, "axis": "z", "origin": [7, 16, 8]},
 			"faces": {

@@ -1,9 +1,10 @@
 {
+	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"2": "block/chorus_disc",
+		"2": "lavidacraft:block/chorus_disc",
 		"bottom": "block/chorus_plant",
-		"flower": "block/chorus_petal",
+		"flower": "lavidacraft:block/chorus_petal",
 		"particle": "block/chorus_flower_dead",
 		"side": "block/chorus_flower_dead"
 	},
@@ -38,21 +39,21 @@
 			}
 		},
 		{
-			"from": [-8, 16, 0],
-			"to": [7, 16, 16],
-			"rotation": {"angle": -22.5, "axis": "z", "origin": [7, 16, 8]},
-			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#flower"},
-				"down": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#flower"}
-			}
-		},
-		{
 			"from": [0, 16, -9],
 			"to": [16, 16, 7],
 			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 16, 7]},
 			"faces": {
 				"up": {"uv": [0, 0, 16, 16], "texture": "#flower"},
 				"down": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#flower"}
+			}
+		},
+		{
+			"from": [-9, 16, 0],
+			"to": [7, 16, 16],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [7, 16, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#flower"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#flower"}
 			}
 		},
 		{

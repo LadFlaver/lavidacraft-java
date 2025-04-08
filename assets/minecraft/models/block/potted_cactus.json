@@ -1,8 +1,8 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"1": "block/potted_cactus_side",
-		"2": "block/potted_cactus_top",
+		"1": "lavidacraft:block/potted_cactus_side",
+		"2": "lavidacraft:block/potted_cactus_top",
 		"particle": "block/flower_pot",
 		"flowerpot": "block/flower_pot"
 	},
