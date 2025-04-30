@@ -1,6 +1,4 @@
 LavidaCraft 1.11
-Added:
- - Textures for Chicken variants.
 Updated:
  - Honey Bottle texture to be more distinct from potions, and more in-line with Vanilla's style.
 Technical:
@@ -8,6 +6,8 @@ Technical:
  - Removed unnecessary frame order from redstone ore animations. (Bedrock)
 Fixed:
  - Glowstone is now actually updated. I'm not sure why it didn't work last update.
+Removed:
+ - Chicken textures. They will be available as a minipack on my Modrinth page.
 
 LavidaCraft 1.10
 Added:
