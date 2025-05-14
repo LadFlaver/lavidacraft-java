@@ -1,0 +1,64 @@
+{
+    id: "lavidacraft",
+    version: 13,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        blocks: {
+            bedrock: true,
+            chiseledStoneBricks: true,
+            chorus: true,
+            driedKelp: true,
+            glowstone: true,
+            grasslikeSides: true,
+            lilyPads: true,
+            magma: true,
+            ores: true,
+            pottedCactus: true,
+            railCorners: true,
+            railFix: true,
+            redstone: true,
+            seagrass: true,
+            torches: true
+        },
+        entities: {
+            arrows: true,
+            endermen: true,
+            guardianBeams: true,
+            zombies: true,
+            oldSkeletons: true
+        },
+        environment: {
+            moon: true,
+            sun: true
+        },
+        gui: {
+            bars: true,
+            equipmentSlots: true,
+            highlightedButtons: false,
+            hotbar: true,
+            icons: true
+        },
+        items: {
+            books: true,
+            bottles: true,
+            bows: true,
+            crossbows: true,
+            fishingRods: true,
+            maps: true,
+            netheriteTools: true,
+            netheriteToolsEmission: true,
+            nuggets: true,
+            ominousBottles: true,
+            potions: true,
+            sugar: true
+        },
+        misc: {
+            destroy: true,
+            diamondArmor: true,
+            enchantGlint: true,
+            leatherArmor: true,
+            netheriteArmor: true,
+            pumpkinBlur: true
+        }
+    }
+}

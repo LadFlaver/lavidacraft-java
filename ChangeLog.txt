@@ -1,11 +1,16 @@
 LavidaCraft 1.11
+Added:
+ - Added support for the Respackopts mod. (Java)
 Updated:
  - Honey Bottle texture to be more distinct from potions, and more in-line with Vanilla's style.
+ - Dragon Breath. No longer has transparency and has been improved slightly.
+ - Experience Bottle. Now matches Vanilla style better.
 Technical:
  - Removed interpolation from torch and soul torch animations as it caused strange artifacts in the UI. This should not greatly effect the appearance of these items. (Java)
  - Removed unnecessary frame order from redstone ore animations. (Bedrock)
 Fixed:
  - Glowstone is now actually updated. I'm not sure why it didn't work last update.
+ - Fixed a clipping issue on potions. (Java)
 Removed:
  - Chicken textures. They will be available as a minipack on my Modrinth page.
 
