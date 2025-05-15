@@ -13,7 +13,7 @@
 			"shade": false,
 			"faces": {
 				"up": {"uv": [7, 6, 9, 8], "texture": "#torch"},
-				"down": {"uv": [7, 14, 9, 16], "texture": "#torch"}
+				"down": {"uv": [7, 14, 9, 16], "texture": "#torch", "cullface": "down"}
 			}
 		},
 		{
