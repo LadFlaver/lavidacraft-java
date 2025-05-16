@@ -35,6 +35,7 @@
         gui: {
             bars: true,
             equipmentSlots: true,
+            glowingBlocksFix: true,
             highlightedButtons: false,
             hotbar: true,
             icons: true

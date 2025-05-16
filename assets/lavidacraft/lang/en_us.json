@@ -43,6 +43,8 @@
     "rpo.lavidacraft.gui.bars.tooltip": "Custom textures for the experience bar and the jump bar",
     "rpo.lavidacraft.gui.equipmentSlots": "Equipment Slots",
     "rpo.lavidacraft.gui.equipmentSlots.tooltip": "Custom textures for armor slots and the off-hand slot",
+    "rpo.lavidacraft.gui.glowingBlocksFix": "Glowing Blocks Fix",
+    "rpo.lavidacraft.gui.glowingBlocksFix.tooltip": "Makes light emitting blocks appear brighter in inventories",
     "rpo.lavidacraft.gui.highlightedButtons": "Highlighted Button Cracks",
     "rpo.lavidacraft.gui.highlightedButtons.tooltip": "Shows cracks on highlighted buttons",
     "rpo.lavidacraft.gui.hotbar": "Hotbar",
