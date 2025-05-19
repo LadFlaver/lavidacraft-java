@@ -8,6 +8,7 @@
             chiseledStoneBricks: true,
             chorus: true,
             dragonEgg: true,
+            dragonEggEmission: true,
             driedKelp: true,
             glowstone: true,
             grasslikeSides: true,
@@ -36,7 +37,6 @@
             bars: true,
             equipmentSlots: true,
             glowingBlocksFix: true,
-            highlightedButtons: false,
             hotbar: true,
             icons: true
         },
