@@ -1,3 +1,19 @@
+LavidaCraft 1.12
+Added:
+ - Creeper texture. This is heavily inspired by the Lush Creepers resource pack. Check it out.
+ - Fletching Table texture. Now matches the bowstring color of bows.
+ - Nether Wart texture for items. Inspired by Theredheadedkid2.
+Updated:
+ - Potted Cactus textures. (Java)
+ - Enderman texture.
+ - Shield slot texture.
+ - Magma Block texture.
+Fixed:
+ - Rail Corner texture.
+Removed:
+ - Textures for Coal, Copper, Diamond, Gold, Iron, and Lapis Ore.
+ - Built in Rail Fix and Glowing Blocks Fix. These will remain available on my Modrinth profile. Including them in this pack feels redundant. (Java)
+
 LavidaCraft 1.11
 Added:
  - Added support for the Respackopts mod. (Java)

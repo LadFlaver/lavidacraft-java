@@ -17,13 +17,13 @@
             ores: true,
             pottedCactus: true,
             railCorners: true,
-            railFix: true,
             redstone: true,
             seagrass: true,
             torches: true
         },
         entities: {
             arrows: true,
+            creepers: true,
             endermen: true,
             guardianBeams: true,
             zombies: true,
@@ -36,7 +36,6 @@
         gui: {
             bars: true,
             equipmentSlots: true,
-            glowingBlocksFix: true,
             hotbar: true,
             icons: true
         },
@@ -49,6 +48,7 @@
             maps: true,
             netheriteTools: true,
             netheriteToolsEmission: true,
+            netherWarts: true,
             nuggets: true,
             ominousBottles: true,
             potions: true,
