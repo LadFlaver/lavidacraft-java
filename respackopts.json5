@@ -4,6 +4,7 @@
     capabilities: ["FileFilter", "DirFilter"],
     conf: {
         blocks: {
+            barrels: true,
             bedrock: true,
             chiseledStoneBricks: true,
             chorus: true,
