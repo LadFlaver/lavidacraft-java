@@ -1,3 +1,6 @@
 {
-    "condition": "lavidacraft.environment.moon"
+    "condition": "lavidacraft.environment.moon.roundMoon",
+    "fallback": [
+        "assets/minecraft/textures/environment/moon_phases_square.png"
+    ]
 }

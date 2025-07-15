@@ -36,6 +36,9 @@
 
     "rpo.lavidacraft.environment": "Environment",
     "rpo.lavidacraft.environment.moon": "Moon",
+    "rpo.lavidacraft.environment.moon.roundMoon": "Round Moon",
+    "rpo.lavidacraft.environment.moon.squareMoon": "Square Moon",
+    "rpo.lavidacraft.environment.moon.off": "Off",
     "rpo.lavidacraft.environment.sun": "Sun",
 
     "rpo.lavidacraft.gui": "GUI",

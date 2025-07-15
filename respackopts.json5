@@ -31,7 +31,11 @@
             oldSkeletons: true
         },
         environment: {
-            moon: true,
+            moon: [
+                "roundMoon",
+                "squareMoon",
+                "off"
+            ],
             sun: true
         },
         gui: {
