@@ -34,7 +34,7 @@
             moon: [
                 "roundMoon",
                 "squareMoon",
-                "off"
+                "vanilla"
             ],
             sun: true
         },
@@ -55,9 +55,19 @@
             netheriteTools: true,
             netheriteToolsEmission: true,
             netherWarts: true,
-            nuggets: true,
+            nuggets: [
+                "all",
+                "named",
+                "off"
+            ],
             ominousBottles: true,
             potions: true,
+            splashPotions: [
+                "default",
+                "legacy",
+                "molotov",
+                "vanilla"
+            ],
             sugar: true
         },
         misc: {
