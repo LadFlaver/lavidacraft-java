@@ -3,9 +3,14 @@ Added:
  - Respackopts option to have nuggets only looks like coins when named Iron or Gold Coin. (Java)
  - Gold nugget texture for the named option for nuggets. It has slightly better outlines than the Vanilla texture. (Java)
  - Villager Experience bar textures. This wasn't an issue that needed to be resolved for Bedrock. (Java)
- - Option with Respackopts to enable the old version of Splash Potions as well as a new alternative look. (Java)
+ - Option with Respackopts to enable an alternative look for Splash Potions. (Java)
+ - Nether Quartz texture.
+ - Farmland Side texture. (Java)
 Updated:
  - Improved most Heart textures slightly.
+ - Improved Nether Wart texture slightly.
+Fixed:
+ - Shading on the edges of the XP and Jump Bars. (Java)
 
 LavidaCraft 1.13
 Added:

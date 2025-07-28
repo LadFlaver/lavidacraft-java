@@ -1,7 +1,6 @@
 {
     "condition": "lavidacraft.items.splashPotions.default & lavidacraft.items.potions",
     "fallback": [
-        "assets/lavidacraft/textures/item/splash_potion_legacy.png",
         "assets/lavidacraft/textures/item/splash_potion_molotov.png"
     ]
 }

@@ -11,6 +11,7 @@
             dragonEgg: true,
             dragonEggEmission: true,
             driedKelp: true,
+            farmland: true,
             glowstone: true,
             grasslikeSides: true,
             lilyPads: true,
@@ -54,6 +55,7 @@
             maps: true,
             netheriteTools: true,
             netheriteToolsEmission: true,
+            netherQuartz: true,
             netherWarts: true,
             nuggets: [
                 "all",
@@ -64,9 +66,7 @@
             potions: true,
             splashPotions: [
                 "default",
-                "legacy",
-                "molotov",
-                "vanilla"
+                "molotov"
             ],
             sugar: true
         },
