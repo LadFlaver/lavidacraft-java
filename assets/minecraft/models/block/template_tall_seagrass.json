@@ -1,6 +1,5 @@
 {
-	"format_version": "1.21.6",
-	"credit": "Made with Blockbench",
+	"credit": "Lad_Flaver, Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
 		"particle": "#texture"

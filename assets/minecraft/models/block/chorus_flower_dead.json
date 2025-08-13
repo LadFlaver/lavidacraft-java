@@ -1,10 +1,10 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Lad_Flaver, Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"2": "lavidacraft:block/chorus_disc",
+		"2": "minecraft:block/lavidacraft/chorus_disc",
 		"bottom": "block/chorus_plant",
-		"flower": "lavidacraft:block/chorus_petal",
+		"flower": "minecraft:block/lavidacraft/chorus_petal",
 		"particle": "block/chorus_flower_dead",
 		"side": "block/chorus_flower_dead"
 	},

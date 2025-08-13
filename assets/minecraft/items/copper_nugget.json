@@ -8,17 +8,17 @@
     "cases": [
       {
         "when": [
-          "Iron Coin"
+          "Copper Coin"
         ],
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/lavidacraft/iron_nugget"
+          "model": "minecraft:item/lavidacraft/copper_nugget"
         }
       }
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/iron_nugget"
+      "model": "minecraft:item/copper_nugget"
     }
   }
 }

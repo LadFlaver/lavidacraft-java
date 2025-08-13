@@ -1,12 +1,12 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Lad_Flaver, Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
 		"0": "block/dragon_egg",
-		"1": "lavidacraft:block/dragon_egg_tier_0",
-		"2": "lavidacraft:block/dragon_egg_tier_1",
-		"3": "lavidacraft:block/dragon_egg_tier_2",
-		"4": "lavidacraft:block/dragon_egg_tier_3",
+		"1": "minecraft:block/lavidacraft/dragon_egg_tier_0",
+		"2": "minecraft:block/lavidacraft/dragon_egg_tier_1",
+		"3": "minecraft:block/lavidacraft/dragon_egg_tier_2",
+		"4": "minecraft:block/lavidacraft/dragon_egg_tier_3",
 		"particle": "block/dragon_egg"
 	},
 	"elements": [

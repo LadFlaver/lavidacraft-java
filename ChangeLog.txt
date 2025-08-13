@@ -6,11 +6,20 @@ Added:
  - Option with Respackopts to enable an alternative look for Splash Potions. (Java)
  - Nether Quartz texture.
  - Farmland Side texture. (Java)
+ - Copper Nugget texture.
+ - Copper Torch texture. (Java)
 Updated:
  - Improved most Heart textures slightly.
  - Improved Nether Wart texture slightly.
+ - Added full support for the XP bar. Finally found a way to do it. (Bedrock)
+ - Updated ReadMe.
+ - Torch models. They should now look better especially when placed on walls. (Java)
+ - Gold and Iron nugget textures.
 Fixed:
  - Shading on the edges of the XP and Jump Bars. (Java)
+ - Credits in models. (Java)
+Technical:
+ - Moved all custom textures unique to LavidaCraft from their own namespace to subfolders. This just makes editing easier for me. (Java)
 
 LavidaCraft 1.13
 Added:
