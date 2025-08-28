@@ -25,7 +25,7 @@
     "rpo.lavidacraft.blocks.seagrass": "Seagrass",
     "rpo.lavidacraft.blocks.seagrass.tooltip": "Fixes tall seagrass clipping through the top of water",
     "rpo.lavidacraft.blocks.torch": "Torches",
-    "rpo.lavidacraft.blocks.torch.tooltip": "Custom model and texture for torches and soul torches",
+    "rpo.lavidacraft.blocks.torch.tooltip": "Custom model and texture for all torch variants as well as an adjusted redstone torch",
 
     "rpo.lavidacraft.entities": "Entities",
     "rpo.lavidacraft.entities.arrows": "Arrows",
