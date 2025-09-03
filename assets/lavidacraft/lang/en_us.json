@@ -36,6 +36,7 @@
     "rpo.lavidacraft.entities.zombies": "Zombies",
 
     "rpo.lavidacraft.environment": "Environment",
+    "rpo.lavidacraft.environment.endflash": "Blurred End Flash",
     "rpo.lavidacraft.environment.moon": "Moon",
     "rpo.lavidacraft.environment.moon.roundMoon": "Round Moon",
     "rpo.lavidacraft.environment.moon.squareMoon": "Square Moon",
@@ -80,6 +81,7 @@
     "rpo.lavidacraft.items.splashPotions.default": "LavidaCraft",
     "rpo.lavidacraft.items.splashPotions.molotov": "Molotov",
     "rpo.lavidacraft.items.sugar": "Sugar",
+    "rpo.lavidacraft.items.waterBuckets": "Water Buckets",
 
     "rpo.lavidacraft.misc": "Misc.",
     "rpo.lavidacraft.misc.destroy": "Block Breaking Animation",

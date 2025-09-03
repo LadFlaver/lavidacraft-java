@@ -32,6 +32,7 @@
             oldSkeletons: true
         },
         environment: {
+            endflash: true,
             moon: [
                 "roundMoon",
                 "squareMoon",
@@ -68,7 +69,8 @@
                 "default",
                 "molotov"
             ],
-            sugar: true
+            sugar: true,
+            waterBuckets: true
         },
         misc: {
             destroy: true,

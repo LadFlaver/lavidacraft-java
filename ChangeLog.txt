@@ -1,3 +1,45 @@
+LavidaCraft 1.14 {
+
+Java and Bedrock Features:
+Added:
+ - Nether Quartz texture
+ - Copper Nugget texture
+ - Blaze texture. Only a minor adjustment to the eyes. Why did they look human in Vanilla?
+ - Water Bucket texture where the water is dripping slightly. (Like Minecraft's old texture)
+Updated:
+ - New format for ChangeLogs for better readability
+ - Improved most Heart textures slightly
+ - Improved Nether Wart texture slightly
+ - Updated ReadMe
+ - Updated Gold and Iron Nugget textures
+ - Updated Creeper texture. Now easier on the eyes and removed most of the vines from it
+ - Redstone Torches are no longer animated. I wasn't fond of that look anymore
+ - Updated Slot texture colors. They now match the Vanilla colors
+ - Fishing Rod texture's string now matches the color of Bow texture's string
+
+Java Exclusive Features:
+Added:
+ - Respackopts option to have nuggets only looks like coins when named Iron or Gold Coin
+ - Gold nugget texture for the named option for nuggets. It has slightly better outlines than the Vanilla texture
+ - Villager Experience bar textures. This wasn't an issue that needed to be resolved for Bedrock
+ - Option with Respackopts to enable an alternative look for Splash Potions
+ - Farmland Side texture
+ - Copper Torch texture
+ - Mcmeta file to blur the End Flashes
+Updated:
+ - Updated Torch models. They should now look better especially when placed on walls
+Fixed:
+ - Fixed the shading on the edges of the XP and Jump Bars
+ - Fixed credits in models
+Technical:
+ - Moved all custom textures unique to LavidaCraft from their own namespace to subfolders. This just makes editing easier for me
+ - Redstone Torches are now toggled by the "Torches" toggle rather than "Redstone"
+
+Bedrock Exclusive Features:
+Updated:
+ - Added full support for the XP bar. Finally found a way to do it
+}
+
 LavidaCraft 1.14
 Added:
  - Respackopts option to have nuggets only looks like coins when named Iron or Gold Coin. (Java)
@@ -9,6 +51,7 @@ Added:
  - Copper Nugget texture.
  - Copper Torch texture. (Java)
  - Blaze texture. Only a minor adjustment to the eyes. Why did they look human?
+ - Mcmeta file to blur the End Flashes. (Java)
 Updated:
  - Improved most Heart textures slightly.
  - Improved Nether Wart texture slightly.
@@ -18,6 +61,8 @@ Updated:
  - Gold and Iron nugget textures.
  - Creeper texture. Now easier on the eyes and removed the vines from it.
  - Redstone Torches are no longer animated. I wasn't fond of that look anymore.
+ - Slot texture colors. They now match the Vanilla colors.
+ - Fishing Rod texture's string now matches the color of Bow texture's string.
 Fixed:
  - Shading on the edges of the XP and Jump Bars. (Java)
  - Credits in models. (Java)
