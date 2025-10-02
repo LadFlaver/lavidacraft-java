@@ -1,3 +1,6 @@
 {
-    "condition": "lavidacraft.environment.sun"
+    "condition": "lavidacraft.environment.sun.square",
+    "fallback": [
+        "assets/minecraft/textures/environment/lavidacraft/sun_round.png"
+    ]
 }

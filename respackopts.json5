@@ -34,11 +34,14 @@
         environment: {
             endflash: true,
             moon: [
-                "roundMoon",
                 "squareMoon",
+                "roundMoon",
                 "vanilla"
             ],
-            sun: true
+            sun: [
+                "square",
+                "round"
+            ]
         },
         gui: {
             bars: true,
