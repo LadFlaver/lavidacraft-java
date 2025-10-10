@@ -4,6 +4,7 @@ Java and Bedrock Features:
 New Features:
  - Added Nether Quartz texture
  - Added Copper Nugget texture
+ - Added Copper Torch texture
  - Added Blaze texture. Only a minor adjustment to the eyes. Why did they look human in Vanilla?
  - Added Water Bucket texture where the water is dripping slightly. (Like Minecraft's old texture)
 Updates:
@@ -41,48 +42,3 @@ Bedrock Exclusive Features:
 Updated:
  - Added full support for the XP bar. Finally found a way to do it
 }
-
-LavidaCraft 1.14
-Added:
- - Respackopts option to have nuggets only looks like coins when named Iron or Gold Coin. (Java)
- - Gold nugget texture for the named option for nuggets. It has slightly better outlines than the Vanilla texture. (Java)
- - Villager Experience bar textures. This wasn't an issue that needed to be resolved for Bedrock. (Java)
- - Option with Respackopts to enable an alternative look for Splash Potions. (Java)
- - Nether Quartz texture.
- - Farmland Side texture. (Java)
- - Copper Nugget texture.
- - Copper Torch texture. (Java)
- - Blaze texture. Only a minor adjustment to the eyes. Why did they look human?
- - Mcmeta file to blur the End Flashes. (Java)
-Updated:
- - Improved most Heart textures slightly.
- - Improved Nether Wart texture slightly.
- - Added full support for the XP bar. Finally found a way to do it. (Bedrock)
- - Updated ReadMe.
- - Torch models. They should now look better especially when placed on walls. (Java)
- - Gold and Iron nugget textures.
- - Creeper texture. Now easier on the eyes and removed the vines from it.
- - Redstone Torches are no longer animated. I wasn't fond of that look anymore.
- - Slot texture colors. They now match the Vanilla colors.
- - Fishing Rod texture's string now matches the color of Bow texture's string.
-Fixed:
- - Shading on the edges of the XP and Jump Bars. (Java)
- - Credits in models. (Java)
-Technical:
- - Moved all custom textures unique to LavidaCraft from their own namespace to subfolders. This just makes editing easier for me. (Java)
- - Redstone Torches are now toggled by the "Torches" toggle rather than "Redstone". (Java)
-
-LavidaCraft 1.13
-Added:
- - Mers textures for entities and block for Vibrant Visuals support. Mers textures for items will be added at a later time. (Bedrock)
- - Square Moon texture that can be enabled through Respackopts. (Java)
- - Toggle for custom loading screen. (Java)
-Updated:
- - Brewing Stand texture.
- - Experience and Jump bars. The way Bedrock handles these is really stupid and makes it so I can't really port these changes. (Java)
- - Method for preventing Seagrass clipping. Formerly used textures, now uses block models to appear the same as Vanilla Bedrock. (Java)
- - Pack format for newer Minecraft versions. (Java)
-Removed:
- - Unused Jump Bar Cooldown texture. (Java)
- - Unused textures for Dried Kelp. (Bedrock)
- - Removed Tall Seagrass textures as Bedrock doesn't have any clipping issues with it. (Bedrock)
