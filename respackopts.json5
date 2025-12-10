@@ -54,6 +54,7 @@
             books: true,
             bottles: true,
             bows: true,
+            cookies: true,
             crossbows: true,
             fishingRods: true,
             maps: true,

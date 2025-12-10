@@ -46,8 +46,8 @@
 		},
 		{
 			"name": "torch_flame_1",
-			"from": [8, 10, 5],
-			"to": [8, 16, 11],
+			"from": [8, 10, 4.5],
+			"to": [8, 16, 11.5],
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"east": {"uv": [5, 0, 11, 6], "texture": "#torch"},
@@ -56,8 +56,8 @@
 		},
 		{
 			"name": "torch_flame_2",
-			"from": [8, 10, 5],
-			"to": [8, 16, 11],
+			"from": [8, 10, 4.5],
+			"to": [8, 16, 11.5],
 			"rotation": {"angle": -45, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"east": {"uv": [5, 0, 11, 6], "texture": "#torch"},

@@ -2,6 +2,6 @@
     "parent": "item/generated",
     "textures": {
         "layer0": "block/soul_torch",
-        "layer1": "minecraft:item/lavidacraft/torch_metal"
+        "layer1": "minecraft:block/lavidacraft/torch_metal_item"
     }
 }
