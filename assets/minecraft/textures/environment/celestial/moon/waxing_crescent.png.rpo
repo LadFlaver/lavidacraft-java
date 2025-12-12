@@ -1,0 +1,6 @@
+{
+    "condition": "lavidacraft.environment.moon.squareMoon",
+    "fallback": [
+        "assets/minecraft/textures/environment/celestial/moon/lavidacraft/waxing_crescent_round.png"
+    ]
+}

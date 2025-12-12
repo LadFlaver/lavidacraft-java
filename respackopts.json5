@@ -48,16 +48,23 @@
             blueLoadingScreen: true,
             equipmentSlots: true,
             hotbar: true,
-            icons: true
+            icons: true,
+            shieldIcons: true
         },
         items: {
             books: true,
             bottles: true,
             bows: true,
+            coal: [
+                "amber",
+                "noAmber",
+                "vanilla"
+            ],
             cookies: true,
             crossbows: true,
             fishingRods: true,
             maps: true,
+            netheriteSmithingTemplates: true,
             netheriteTools: true,
             netheriteToolsEmission: true,
             netherQuartz: true,
@@ -69,6 +76,7 @@
             ],
             ominousBottles: true,
             potions: true,
+            seeds: true,
             splashPotions: [
                 "default",
                 "molotov"

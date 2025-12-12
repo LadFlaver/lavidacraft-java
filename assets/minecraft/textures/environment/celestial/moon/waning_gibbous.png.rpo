@@ -1,0 +1,6 @@
+{
+    "condition": "lavidacraft.environment.moon.squareMoon",
+    "fallback": [
+        "assets/minecraft/textures/environment/celestial/moon/lavidacraft/waning_gibbous_round.png"
+    ]
+}

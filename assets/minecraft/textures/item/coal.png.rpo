@@ -1,0 +1,6 @@
+{
+    "condition": "lavidacraft.items.splashPotions.default & lavidacraft.items.coal.amber",
+    "fallback": [
+        "assets/minecraft/textures/item/lavidacraft/coal_alt.png"
+    ]
+}
