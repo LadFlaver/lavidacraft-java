@@ -1,3 +1,13 @@
+LavidaCraft 1.16 {
+Updates:
+ - Updated Netherwart texture
+ - Updated Bedrock texture?
+Removed Features:
+ - Leather Armor Changes
+Technical Changes:
+ - Changed how Farmland models work behind the scenes to help with mod compatibility
+}
+
 LavidaCraft 1.15 {
 
 Java and Bedrock Changes:

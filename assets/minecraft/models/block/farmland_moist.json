@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/template_farmland",
+  "parent": "minecraft:block/lavidacraft/template_farmland",
   "textures": {
     "side": "minecraft:block/lavidacraft/farmland_moist_side",
     "top": "minecraft:block/farmland_moist",

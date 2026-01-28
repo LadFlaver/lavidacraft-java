@@ -98,8 +98,6 @@
     "rpo.lavidacraft.misc.diamondArmor": "Diamond Armor",
     "rpo.lavidacraft.misc.diamondArmor.tooltip": "Fixes pixels that are missing from diamond armor when comparing it to other armor sets",
     "rpo.lavidacraft.misc.enchantGlint": "Enchanted Item Glint",
-    "rpo.lavidacraft.misc.leatherArmor": "Leather Armor",
-    "rpo.lavidacraft.misc.leatherArmor.tooltip": "Allows the entire leather armor texture to be affected by dye",
     "rpo.lavidacraft.misc.netheriteArmor": "Netherite Armor",
     "rpo.lavidacraft.misc.netheriteArmor.tooltip": "Altered color palette for netherite armor",
     "rpo.lavidacraft.misc.pumpkinBlur": "Pumpkin Blur",
