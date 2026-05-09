@@ -5,7 +5,11 @@
     conf: {
         blocks: {
             barrels: true,
-            bedrock: true,
+            bedrock: [
+                "on",
+                "legacy",
+                "off"
+            ],
             chiseledStoneBricks: true,
             chorus: true,
             dragonEgg: true,
@@ -48,6 +52,10 @@
             blueLoadingScreen: true,
             equipmentSlots: true,
             hotbar: true,
+            hungerBar: [
+                "ham",
+                "bokChoy"
+            ],
             icons: true,
             shieldIcons: true
         },
@@ -85,7 +93,7 @@
             waterBuckets: true
         },
         misc: {
-            destroy: true,
+            destroy: false,
             diamondArmor: true,
             enchantGlint: true,
             netheriteArmor: true,

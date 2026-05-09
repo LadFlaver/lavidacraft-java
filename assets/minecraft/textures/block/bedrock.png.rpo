@@ -1,3 +1,6 @@
 {
-    "condition": "lavidacraft.blocks.bedrock"
+    "condition": "lavidacraft.blocks.bedrock.on",
+    "fallback": [
+        "assets/minecraft/textures/block/lavidacraft/bedrock_legacy.png"
+    ]
 }

@@ -1,3 +1,6 @@
 {
-    "condition": "lavidacraft.blocks.bedrock"
+    "condition": "lavidacraft.blocks.bedrock.on",
+    "fallback": [
+        "assets/minecraft/textures/entity/end_crystal/lavidacraft/end_crystal_legacy.png"
+    ]
 }
