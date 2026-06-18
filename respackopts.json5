@@ -60,6 +60,7 @@
             shieldIcons: true
         },
         items: {
+            bonemeal: true,
             books: true,
             bottles: true,
             bows: true,

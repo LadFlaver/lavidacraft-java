@@ -3,6 +3,7 @@ New Features:
  - New Respackopts option to change the Hunger Bar to Bok Choy. This is disabled by default. This feature also supports the Appleskin mod
  - Added support for the Item Swapper mod
  - Added an Iron Nugget texture for the "Named" nugget ResPackOpts option. No more Airpod looking thing
+ - Added a new Bone Meal texture. It now looks like a powder and shares a color palette with bones
 Updates:
  - Updated Netherwart texture
  - Updated Bedrock and End Crystal textures. Added a ResPackOpts option for the old versions
@@ -12,6 +13,7 @@ Updates:
  - Updated Wheat Seeds texture
  - Updated Pumpkin Seeds texture color palette
  - Updated Melon Seeds Texture color palette
+ - Updated the Glass Bottle, Potion, Dragon's Breath, Honey Bottle, Lingering Potion, and Experience Bottle textures
 Removed Features:
  - Leather Armor Changes
 Technical Changes:
