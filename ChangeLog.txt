@@ -13,9 +13,10 @@ Updates:
  - Updated Wheat Seeds texture
  - Updated Pumpkin Seeds texture color palette
  - Updated Melon Seeds Texture color palette
- - Updated the Glass Bottle, Potion, Dragon's Breath, Honey Bottle, Lingering Potion, and Experience Bottle textures
+ - Updated the Glass Bottle, Potion, Dragon's Breath, Honey Bottle, Lingering Potion, Splash Potion, and Experience Bottle textures (and related UI textures)
 Removed Features:
- - Leather Armor Changes
+ - Removed the Leather Armor Changes
+ - Removed the Molotov option for splash potions as the new default is considered a replacement
 Technical Changes:
  - Changed how Farmland models work behind the scenes to help with mod compatibility
 }

@@ -91,9 +91,6 @@
     "rpo.lavidacraft.items.potions": "Potions",
     "rpo.lavidacraft.items.potions.tooltip": "Custom textures for potions, lingering potions, and splash potions. This also affects brewing stands and their UI",
     "rpo.lavidacraft.items.seeds": "Seeds",
-    "rpo.lavidacraft.items.splashPotions": "Splash Potions Style",
-    "rpo.lavidacraft.items.splashPotions.default": "LavidaCraft",
-    "rpo.lavidacraft.items.splashPotions.molotov": "Molotov",
     "rpo.lavidacraft.items.sugar": "Sugar",
     "rpo.lavidacraft.items.waterBuckets": "Water Buckets",
 

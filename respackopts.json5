@@ -86,10 +86,6 @@
             ominousBottles: true,
             potions: true,
             seeds: true,
-            splashPotions: [
-                "default",
-                "molotov"
-            ],
             sugar: true,
             waterBuckets: true
         },
