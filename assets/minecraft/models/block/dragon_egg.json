@@ -3,10 +3,10 @@
 	"parent": "block/block",
 	"textures": {
 		"0": "block/dragon_egg",
-		"1": "minecraft:block/lavidacraft/dragon_egg_tier_0",
-		"2": "minecraft:block/lavidacraft/dragon_egg_tier_1",
-		"3": "minecraft:block/lavidacraft/dragon_egg_tier_2",
-		"4": "minecraft:block/lavidacraft/dragon_egg_tier_3",
+		"1": "block/lavidacraft/dragon_egg_tier_0",
+		"2": "block/lavidacraft/dragon_egg_tier_1",
+		"3": "block/lavidacraft/dragon_egg_tier_2",
+		"4": "block/lavidacraft/dragon_egg_tier_3",
 		"particle": "block/dragon_egg"
 	},
 	"elements": [
@@ -41,11 +41,11 @@
 			"to": [12, 16, 12],
 			"rotation": {"angle": 0, "axis": "y", "origin": [7, 15, 7]},
 			"faces": {
-				"north": {"uv": [5, 1, 11, 4], "texture": "#0"},
-				"east": {"uv": [5, 1, 11, 4], "texture": "#0"},
-				"south": {"uv": [5, 1, 11, 4], "texture": "#0"},
-				"west": {"uv": [5, 1, 11, 4], "texture": "#0"},
-				"up": {"uv": [5, 5, 11, 11], "texture": "#4", "cullface": "up"}
+				"north": {"uv": [4, 0, 12, 3], "texture": "#0"},
+				"east": {"uv": [4, 0, 12, 3], "texture": "#0"},
+				"south": {"uv": [4, 0, 12, 3], "texture": "#0"},
+				"west": {"uv": [4, 0, 12, 3], "texture": "#0"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#4", "cullface": "up"}
 			}
 		}
 	]

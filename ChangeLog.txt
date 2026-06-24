@@ -14,6 +14,9 @@ Updates:
  - Updated Pumpkin Seeds texture color palette
  - Updated Melon Seeds Texture color palette
  - Updated the Glass Bottle, Potion, Dragon's Breath, Honey Bottle, Lingering Potion, Splash Potion, and Experience Bottle textures (and related UI textures)
+ - Updated the pack icon
+Fixes:
+ - Fixed a UV mapping issue on the Dragon Egg model
 Removed Features:
  - Removed the Leather Armor Changes
  - Removed the Molotov option for splash potions as the new default is considered a replacement
