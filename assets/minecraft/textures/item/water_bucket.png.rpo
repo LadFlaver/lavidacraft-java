@@ -1,3 +1,3 @@
 {
-    "condition": "lavidacraft.items.waterBuckets"
+    "condition": "lavidacraft.itemsCategory.waterBuckets"
 }

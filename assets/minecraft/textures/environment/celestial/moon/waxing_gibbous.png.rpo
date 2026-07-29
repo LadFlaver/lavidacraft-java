@@ -1,5 +1,5 @@
 {
-    "condition": "lavidacraft.environment.moon.squareMoon",
+    "condition": "lavidacraft.environmentCategory.moon.true",
     "fallback": [
         "assets/minecraft/textures/environment/celestial/moon/lavidacraft/waxing_gibbous_round.png"
     ]

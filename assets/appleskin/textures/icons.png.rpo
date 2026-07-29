@@ -1,5 +1,5 @@
 {
-    "condition": "!lavidacraft.gui.hungerBar.bokChoy",
+    "condition": "!lavidacraft.guiCategory.hungerBar.bokChoy",
     "fallback": [
         "assets/appleskin/textures/lavidacraft/icons_bok_choy.png"
     ]

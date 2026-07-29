@@ -3,12 +3,12 @@
     version: 13,
     capabilities: ["FileFilter", "DirFilter"],
     conf: {
-        blocks: {
+        blocksCategory: {
             barrels: true,
             bedrock: [
-                "on",
-                "legacy",
-                "off"
+                "true",
+                "trueLegacy",
+                "false"
             ],
             chiseledStoneBricks: true,
             chorus: true,
@@ -20,54 +20,50 @@
             grasslikeSides: true,
             lilyPads: true,
             magma: true,
-            ores: true,
             pottedCactus: true,
             railCorners: true,
             redstone: true,
             seagrass: true,
             torches: true
         },
-        entities: {
+        entitiesCategory: {
             arrows: true,
+            blazes: true,
             creepers: true,
             endermen: true,
             guardianBeams: true,
             zombies: true,
-            oldSkeletons: true
         },
-        environment: {
+        environmentCategory: {
             endflash: true,
             moon: [
-                "squareMoon",
-                "roundMoon",
-                "vanilla"
+                "true",
+                "trueRound",
+                "false"
             ],
-            sun: [
-                "square",
-                "round"
-            ]
+            sun: false,
         },
-        gui: {
+        guiCategory: {
             bars: true,
             blueLoadingScreen: true,
             equipmentSlots: true,
             hotbar: true,
+            icons: true,
             hungerBar: [
                 "ham",
                 "bokChoy"
             ],
-            icons: true,
             shieldIcons: true
         },
-        items: {
+        itemsCategory: {
             bonemeal: true,
             books: true,
             bottles: true,
             bows: true,
             coal: [
-                "amber",
-                "noAmber",
-                "vanilla"
+                "true",
+                "trueNoAmber",
+                "false"
             ],
             cookies: true,
             crossbows: true,
@@ -79,9 +75,9 @@
             netherQuartz: true,
             netherWarts: true,
             nuggets: [
-                "all",
                 "named",
-                "off"
+                "all",
+                "false"
             ],
             ominousBottles: true,
             potions: true,
@@ -89,7 +85,7 @@
             sugar: true,
             waterBuckets: true
         },
-        misc: {
+        miscCategory: {
             destroy: false,
             diamondArmor: true,
             enchantGlint: true,

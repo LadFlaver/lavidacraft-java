@@ -1,5 +1,5 @@
 {
-    "condition": "lavidacraft.gui.icons & lavidacraft.gui.hungerBar.ham",
+    "condition": "lavidacraft.guiCategory.icons & lavidacraft.guiCategory.hungerBar.ham",
     "fallback": [
         "assets/minecraft/textures/gui/sprites/hud/lavidacraft/food_empty_bok_choy.png"
     ]

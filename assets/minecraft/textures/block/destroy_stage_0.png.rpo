@@ -1,5 +1,5 @@
 {
-    "condition": "!lavidacraft.misc.destroy",
+    "condition": "!lavidacraft.miscCategory.destroy",
     "fallback": [
         "assets/minecraft/textures/block/lavidacraft/destroy_stage_0_alt.png"
     ]
