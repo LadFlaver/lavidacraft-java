@@ -6,9 +6,9 @@
         blocksCategory: {
             barrels: true,
             bedrock: [
-                "true",
-                "trueLegacy",
-                "false"
+                "enabled",
+                "enabledLegacy",
+                "disabled"
             ],
             chiseledStoneBricks: true,
             chorus: true,
@@ -37,9 +37,9 @@
         environmentCategory: {
             endflash: true,
             moon: [
-                "true",
-                "trueRound",
-                "false"
+                "enabled",
+                "enabledRound",
+                "disabled"
             ],
             sun: false,
         },
@@ -61,9 +61,9 @@
             bottles: true,
             bows: true,
             coal: [
-                "true",
-                "trueNoAmber",
-                "false"
+                "enabled",
+                "enabledNoAmber",
+                "disabled"
             ],
             cookies: true,
             crossbows: true,

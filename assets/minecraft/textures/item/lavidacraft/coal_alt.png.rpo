@@ -1,3 +1,3 @@
 {
-    "condition": "lavidacraft.itemsCategory.coal.trueNoAmber"
+    "condition": "lavidacraft.itemsCategory.coal.enabledNoAmber"
 }

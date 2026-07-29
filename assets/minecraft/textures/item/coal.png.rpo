@@ -1,5 +1,5 @@
 {
-    "condition": "lavidacraft.itemsCategory.splashPotions.default & lavidacraft.itemsCategory.coal.true",
+    "condition": "lavidacraft.itemsCategory.coal.enabled",
     "fallback": [
         "assets/minecraft/textures/item/lavidacraft/coal_alt.png"
     ]
